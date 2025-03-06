@@ -46,7 +46,7 @@
             <form class="d-flex" role="search">
             <ul class="navbar-nav  mb-2 mb-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="login.php">LOGIN</a>
+                        <a class="nav-link active" aria-current="page" href="login.php">SIGN IN</a>
                     </li>
                 </ul>
             </form>
