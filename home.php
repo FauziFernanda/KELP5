@@ -40,7 +40,7 @@
                 <div class="card-body">
                   <h5 class="card-title"><?= htmlspecialchars($data_berita['judul_berita']) ?></h5>
                   <p class="card-text"><?= nl2br(htmlspecialchars($data_berita['isi_berita'])) ?></p>
-                  <a href="index.php" class="btn btn-secondary">Back to Home</a>
+                  <a href="index.php" class="btn btn-secondary">Back to Her</a>
                 </div>
               </div>
             </div>
